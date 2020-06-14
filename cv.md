@@ -1,81 +1,104 @@
-1. Tatsiana Yubko
-2. Contacts
+# Tatsiana Yubko
+![](https://webtormashki.github.io/images/photos/IMG.jpg)
 
-+375 (44) 720-34-82
-webtormashki@gmail.com 
-http://webtormashki.github.io
+## Contacts 
 
-3. I have been working as a graphics designer and a web-disigner for 6 years. 
-I've automated the processes of creating banners using scripts at work. I've took an active part in the life of the team. I've trained my colleagues in the basics of material-design and working with graphic editors. According to the results of work in 2017, I've been reward as the best employee of the quarter in my department.
+:iphone: +375 (44) 720-34-82
 
-I like to learn something new and try to improve my skills. I can manage my time and prioritize tasks.
-In colleagues appreciate professionalism. My dream is to work in an excellent team, where they maintain a friendly atmosphere.
+:email: webtormashki@gmail.com 
 
-I understand the trends of modern design, the ability to create works in different styles. I am fond of drawing, painting, cycling, hiking, photography.
+:computer: [https://webtormashki.github.io](https://webtormashki.github.io)
 
+## About me
 
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-SKILLS:
+I've been working as a **graphics designer** and a **web-disigner** for 6 years. 
+I've been rewarded as the best employee of the quarter in my department.
 
-> Create static and animated graphics in different formats for various advertising systems, launch dynamic remarketing, video ads using the Adobe Creative Suite software package (Illustrator, InDesign, Photoshop, Flash, After Effects), Sketch, Figma, as well as Google Web Designer .
+**At work:**
 
-> Layout of landing pages, newsletters, creation of Web sites, Web applications.
+* Take an active part in the life of the team.
+* Train my colleagues in the basics of web-design and working with graphic editors.
+* Use scripts to automate the processe of creating graphics.
 
-> Promotion, creation of chat bots, cover design and design of ribbons in social networks.
+Like to learn something new and try to improve my skills. 
+Сan manage my time and prioritize tasks.
 
-> POSM design, development of layouts for printing, promotional materials, infographics, logos and corporate identity.
+My dream is to work in an excellent team with the professionals.
 
-Extras:
-
-> Drawing skills (on paper and graphics tablet).
-
-> Photographing and image processing in Lightroom and Aperture
-
-> Development of interior design in ArchiCAD
-
-> Good knowledge of English (writing, reading, oral communication)
-
-> Knowledge of HTML, CSS, JS, Nodejs, npm, Gulp, Webpack, Yarn, Git, BEM, CMS - Wordpress, MySQL, PHP, 1C-Bitrix, XMind, OmniPlan, OmniGraffle, GitKraken
+Fond of drawing, painting, cycling, hiking, photographing.
 
 
-5. Code examples (LATEST)
+## Skills
 
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
+**Main:**
 
-Creation of interfaces, flash banners, website layout, website integration in cms.
-Compilation of a website review report.
-Development of layouts for printing, logos and corporate identity
+- [x] Create static and animated graphics using Adobe Creative Suite software package (Illustrator, InDesign, Photoshop, Flash, After Effects), Sketch, Figma, as well as Google Web Designer.
 
-• preparation of marketing promotional materials for mobile games
-• close cooperation with a team of marketers and designers of game projects
-• participation in the development of the concept of promotional materials
+- [x] Work with raster and vector graphics. Do layouts for printing, promotional materials, infographics, logos and corporate identity.
 
-> Creating graphics and banners in various formats: static, html-animation, gif-animation (for advertising systems Google Ads, Yandex.Direct, MyTarget, Facebooks Ads, social networks, e-mail and push mailings, Instagram, Vkontakte, Odnoklassniki, YouTube, Unisender, Onesignal)
-> Participation in the development and development of the oma.by website
-> Design and layout of landing pages
-> Creating newsletters, preloaders and favicons
-> Launching dynamic remarketing
-> Launching video advertising direction
-> Creating visual concepts for advertising campaigns
-> Creating templates and layouts for automation banner creation
-> Training specialists in the basics of web design and working with graphic editors
-> Development of interior design for points of issue of orders
-> Design of POSM, infographics, oma.by logos and pickup.
+- [x] Have knowledge of HTML5, CSS3, JS. 
+
+- [x] Use Nodejs, npm, Gulp, Webpack, Yarn, Bootstrap, BEM methodology, Git version control.
+
+- [x] Can work with OmniPlan, OmniGraffle, Visual Studio Code tools, XMind, GitKraken, CMS - Wordpress, 1C-Bitrix.
+
+- [x] Make landing pages, web sites and newsletters.
 
 
-7. Higher education
+**Extras:**
 
-2013 - Belarusian State University of Informatics and Radioelectronics, Minsk
-Faculty of continuing education and retraining , programmer-web designer
+- [x] Drawing skill. 
 
-2007 - Women's Institute ENVILA, Minsk
-Faculty of modern foreign languages , linguist translator
+- [x] Photographing and image editing in Lightroom and Aperture.
 
-Self aducation
+- [x] 3D skill - making interior design in ArchiCAD
 
-2020 Front-end development online-courses 
 
-8. Knowledge of English: upper-Intermidiate
-I'v been learning English at Institute for 5 years as a translator.
+## Code examples:
+
+[Web page MYFIN](https://github.com/webtormashki/work)
+
+[Landing page BEM](https://github.com/webtormashki/bem)
+
+[UIKIT Project](https://github.com/webtormashki/uikit)
+
+
+## Experience 
+
+
+**2013-2014** Internet-portal [energobelarus.by](https://energobelarus.by/) and [agrobelarus.by](https://agrobelarus.by/)
+
+* Creation of interfaces and website layout.
+* Corporate identity and flash banners.
+
+**2014** Software development company [ximxim.com ](https://www.ximxim.com/)  
+
+* Preparation of marketing promotional materials for mobile games.  
+* Cooperation with a team of marketers and designers of game projects. 
+
+**2015-2019** Internet-site [oma.by](https://www.oma.by/)
+
+* Participation in the development of the website.
+* Designing landing pages and newsletters for advertising campaigns.
+* Creating graphics and banners in various formats: static, html-animation, gif-animation.
+* Making templates for package graphic development.
+* Infographic, typography, logo and identity.
+
+
+## Education
+
+**Higher education:**
+
+*2013* - Belarusian State University of Informatics and Radioelectronics, Minsk  
+Faculty of continuing education and retraining, programmer-web designer
+
+*2007* - Women's Institute ENVILA, Minsk  
+Faculty of modern foreign languages, linguist translator
+
+**Self education:**
+
+*2020* - Front-end development online-courses
+
+## English 
+
+*Upper-Intermidiate* Studying English at Institute for 5 years as a translator.
