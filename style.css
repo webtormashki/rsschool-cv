@@ -1,0 +1,128 @@
+h1 {
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  font-style: normal;
+  font-variant: normal;
+  line-height: 26.4px;
+}
+
+h2 {
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  font-style: normal;
+  font-variant: normal;
+  line-height: 26.4px;
+
+  display: block;
+
+  width: 250px;
+  padding: 10px 0 20px 0;
+
+  border-bottom: 1px solid #ffca29;
+}
+
+h3 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  font-style: normal;
+  font-variant: normal;
+  line-height: 15.4px;
+}
+
+h2 {
+  color: #ffca29;
+}
+
+h3 {
+  color: #aaa;
+}
+
+p,
+ul {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  line-height: 28px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+
+  color: #ccc;
+  background-color: #41454e;
+}
+
+a {
+  text-decoration: none;
+
+  color: #0cf;
+}
+
+header {
+  position: relative;
+
+  margin: 0;
+  padding: 20px 0 20px 20px;
+}
+
+li {
+  padding-bottom: 10px;
+}
+
+section {
+  margin: 0;
+  padding: 0 20px 20px;
+}
+
+.container {
+  width: 640px;
+  margin: 0 auto;
+  padding: 20px;
+
+  background-color: #1f2125;
+}
+
+.img {
+  position: absolute;
+  top: 140px;
+  right: 20px;
+
+  display: inline-block;
+
+  width: 250px;
+  height: 250px;
+  padding-right: 0;
+
+  border-radius: 100%;
+  background-image: url(https://webtormashki.github.io/images/photos/yubko2.jpg);
+  background-position: center;
+  background-size: 250px;
+}
+
+.contacts {
+  display: inline-block;
+
+  width: 250px;
+}
+
+.aboutme li {
+  list-style-type: disc;
+}
+
+.skills li {
+  list-style-type: circle;
+}
+
+.examples li {
+  list-style-type: none;
+}
+
+.experience li {
+  list-style-type: disc;
+}
