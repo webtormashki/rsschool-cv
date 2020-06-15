@@ -11,14 +11,14 @@
 
 ## About me
 
-I've been working as a **graphics designer** and a **web-disigner** for 6 years. 
+I've been working as a **graphics designer** and a **web-designer** for 6 years. 
 I've been rewarded as the best employee of the quarter in my department.
 
 **At work:**
 
 * Take an active part in the life of the team.
 * Train my colleagues in the basics of web-design and working with graphic editors.
-* Use scripts to automate the processe of creating graphics.
+* Use scripts to automate the process of creating graphics.
 
 Like to learn something new and try to improve my skills. 
 Сan manage my time and prioritize tasks.
@@ -38,7 +38,7 @@ Fond of drawing, painting, cycling, hiking, photographing.
 
 - [x] Have knowledge of HTML5, CSS3, JS. 
 
-- [x] Use Nodejs, npm, Gulp, Webpack, Yarn, Bootstrap, BEM methodology, Git version control.
+- [x] Use Nodejs, npm, Gulp, Webpack, Yarn, Bootstrap, jquery, Scss preprocessor, BEM methodology, Git version control.
 
 - [x] Can work with OmniPlan, OmniGraffle, Visual Studio Code tools, XMind, GitKraken, CMS - Wordpress, 1C-Bitrix.
 
@@ -89,7 +89,7 @@ Fond of drawing, painting, cycling, hiking, photographing.
 
 **Higher education:**
 
-*2013* - Belarusian State University of Informatics and Radioelectronics, Minsk  
+*2013* - Belarusian State University of Informatics and Radio electronics, Minsk  
 Faculty of continuing education and retraining, programmer-web designer
 
 *2007* - Women's Institute ENVILA, Minsk  
@@ -101,4 +101,4 @@ Faculty of modern foreign languages, linguist translator
 
 ## English 
 
-*Upper-Intermidiate* Studying English at Institute for 5 years as a translator.
+*Upper-Intermediate* Studying English at Institute for 5 years as a translator.
